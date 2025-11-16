@@ -1,0 +1,23 @@
+[
+  {
+    "title": "ISRO announces Chandrayaan-3 launch window",
+    "publishedAt": "2023-07-14T10:00:00Z",
+    "content": "ISRO has announced the upcoming Chandrayaan-3 mission. The launch window is set for late July. Officials said the objective is to demonstrate a soft landing on the lunar surface.",
+    "url": "https://example.com/isro-announces-chandrayaan3",
+    "source": "The Hindu"
+  },
+  {
+    "title": "Chandrayaan-3 successfully launched",
+    "publishedAt": "2023-07-22T12:30:00Z",
+    "content": "The Chandrayaan-3 spacecraft lifted off successfully. ISRO confirmed the launch and initial stages of trajectory insertion went as planned.",
+    "url": "https://example.com/chandrayaan3-launched",
+    "source": "Times of India"
+  },
+  {
+    "title": "Chandrayaan-3 achieves soft landing",
+    "publishedAt": "2023-08-23T09:40:00Z",
+    "content": "The lander achieved a soft landing near the lunar south pole. Officials celebrated the milestone.",
+    "url": "https://example.com/chandrayaan3-landing",
+    "source": "Reuters"
+  }
+]
